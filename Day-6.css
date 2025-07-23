@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.back{
+    background-color: black;
+    width: 40vh;
+    padding: 10px;
+}
+
+.h1{
+    color: lightsalmon
+}
+
+.h2{
+    color: orange;
+}
+
+.h3{
+    color: darkorange;
+}
+
+.h4{
+    color: #ffffff;
+}
+
+p{
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
