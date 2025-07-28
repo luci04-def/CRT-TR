@@ -1,0 +1,56 @@
+.back{
+    background-color: antiquewhite;
+    color: black;
+    height: 100vh;
+    width: 70vh;
+}
+
+.card {
+    background-color: gray;
+    color: chartreuse;
+    font-style: italic;
+    position: static;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+
+.s-card {
+    background-color: gray;
+    color: chartreuse;
+    font-style: italic;
+    position: sticky;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+
+.fix-card{
+    background-color: grey;
+    color: chartreuse;
+    font-style: italic;
+    position: fixed;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+
+.a-card {
+    background-color: gray;
+    color: chartreuse;
+    font-style: italic;
+    position: absolute;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+
+.r-card {
+    background-color: gray;
+    color: chartreuse;
+    font-style: italic;
+    position: relative;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
